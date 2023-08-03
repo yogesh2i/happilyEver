@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/happilyEver/static/css/main.f93a2848.css",
+    "main.js": "/happilyEver/static/js/main.c5c444f2.js",
+    "index.html": "/happilyEver/index.html",
+    "main.f93a2848.css.map": "/happilyEver/static/css/main.f93a2848.css.map",
+    "main.c5c444f2.js.map": "/happilyEver/static/js/main.c5c444f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f93a2848.css",
+    "static/js/main.c5c444f2.js"
+  ]
+}
