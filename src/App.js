@@ -10,10 +10,10 @@ function App() {
   return (
     <div className="App" >
       <Navbar/>
-      <BrowserRouter>
+      <BrowserRouter basename='/happilyEver'>
       <Routes>
         <Route exact path='/student/:verification' element={<Home/>}/>
-        <Route  path='/' element={<Home/>} />
+        <Route  path='/happilyEver' element={<Home/>} />
       </Routes>
      
       </BrowserRouter>
