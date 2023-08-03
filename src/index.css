@@ -5,9 +5,19 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: rgb(144,209,226);
+background: linear-gradient(90deg, rgba(144,209,226,1) 0%, rgba(9,76,121,0.4017045050442052) 55%, rgba(0,212,255,1) 90%);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@media only screen and (max-width: 768px) {
+  body{
+
+    background: linear-gradient(-90deg, rgba(144,209,226,1) 0%, rgba(9,76,121,0.4017045050442052) 5%, rgba(0,212,255,1) 95%);
+  }
+
 }
