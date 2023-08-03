@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/happilyEver/static/css/main.f93a2848.css",
-    "main.js": "/happilyEver/static/js/main.8cb222a1.js",
+    "main.js": "/happilyEver/static/js/main.63830dff.js",
     "index.html": "/happilyEver/index.html",
     "main.f93a2848.css.map": "/happilyEver/static/css/main.f93a2848.css.map",
-    "main.8cb222a1.js.map": "/happilyEver/static/js/main.8cb222a1.js.map"
+    "main.63830dff.js.map": "/happilyEver/static/js/main.63830dff.js.map"
   },
   "entrypoints": [
     "static/css/main.f93a2848.css",
-    "static/js/main.8cb222a1.js"
+    "static/js/main.63830dff.js"
   ]
 }
