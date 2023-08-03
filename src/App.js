@@ -13,7 +13,7 @@ function App() {
       <BrowserRouter basename='/happilyEver'>
       <Routes>
         <Route exact path='/student/:verification' element={<Home/>}/>
-        <Route  path='/happilyEver' element={<Home/>} />
+        <Route exact path='/happilyEver' element={<Home/>} />
       </Routes>
      
       </BrowserRouter>
