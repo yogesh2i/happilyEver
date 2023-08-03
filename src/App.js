@@ -12,8 +12,8 @@ function App() {
       <Navbar/>
       <BrowserRouter basename='/happilyEver'>
       <Routes>
-        <Route exact path='/student/:verification' element={<Home/>}/>
         <Route exact path='/happilyEver' element={<Home/>} />
+        <Route exact path='/student/:verification' element={<Home/>}/>
       </Routes>
      
       </BrowserRouter>
